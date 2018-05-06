@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="TB"
+          fetch="https://github.com/TwrpBuilder/" />  
+
+<project name="android_device_a3y17lte" path="device/samsung/a3y17lte" remote="TB" revision="master" />
+<project name="android_device_a5y17lte" path="device/samsung/a5y17lte" remote="TB" revision="master" />
+<project name="android_device_a8xelte" path="device/samsung/a8xelte" remote="TB" revision="android-5.1" />
+<project name="android_device_Accent_Speed_X2" path="device/Accent/Speed_X2" remote="TB" revision="master" />
+<project name="android_device_ALLVIEW_gionee6735_65u_m0" path="device/ALLVIEW/gionee6735_65u_m0" remote="TB" revision="master" />
+<project name="android_device_asus_P01V_2" path="device/asus/P01V_2" remote="TB" revision="master" />
+<project name="android_device_Billow_X100V6" path="device/Billow/X100V6" remote="TB" revision="master" />
+<project name="android_device_condor_gionee6753_65u_m0" path="device/condor/gionee6753_65u_m0" remote="TB" revision="master" />
+<project name="android_device_Doro_ckt72_w_kk" path="device/Doro/ckt72_w_kk" remote="TB" revision="master" />
+<project name="android_device_GIONEE_gionee6735_66c_m0" path="device/GIONEE/gionee6735_66c_m0" remote="TB" revision="master" />
+<project name="android_device_grandpplte" path="device/samsung/grandpplte" remote="TB" revision="master" />
+<project name="android_device_HAFURY_HAFURY_UMAX" path="device/HAFURY_HAFURY_UMAX" remote="TB" revision="master" />
+<project name="android_device_HOMTOM_br6580_weg_n" path="device/HOMTOM/br6580_weg_n" remote="TB" revision="master" />
+<project name="android_device_htc_htc_a50mgp_dug" path="device/htc/htc_a50mgp_dug" remote="TB" revision="master" />
+<project name="android_device_htc_htc_v36bml_dugl" path="device/htc/htc_v36bml_dugl" remote="TB" revision="master" />
+<project name="android_device_Huawei_SLA_L22" path="device/Huawei/SLA_L22" remote="TB" revision="master" />
+<project name="android_device_intex_n320c" path="device/intex_n320c" remote="TB" revision="master" />
+<project name="android_device_LEAGOO_KIICAA_POWER" path="device/LEAGOO/KIICAA_POWER" remote="TB" revision="master" />
+<project name="android_device_leeco_x2" path="device/leeco/x2" remote="TB" revision="master" />
+<project name="android_device_lenovo_lenovo_a806" path="device/lenovo/lenovo_a806" remote="TB" revision="master" />
+<project name="android_device_Lenovo_marino_f" path="device/Lenovo/marino_f" remote="TB" revision="master" />
+<project name="android_device_lge_pplus" path="device/lge/pplus" remote="TB" revision="master" />
+<project name="android_device_lge_v521" path="device/lge/v521" remote="TB" revision="master" />
+<project name="android_device_lge_w7" path="device/lge/w7" remote="TB" revision="master" />
+<project name="android_device_lyf_LS_5010" path="device/lyf/LS_5010" remote="TB" revision="master" />
+<project name="android_device_Micromax_E311" path="device/Micromax/E311" remote="TB" revision="master" />
+<project name="android_device_Micromax_P702" path="device/Micromax/P702" remote="TB" revision="master" />
+<project name="android_device_Micromax_Q392" path="device/Micromax/Q392" remote="TB" revision="master" />
+<project name="android_device_micromax_q461" path="device/micromax/q461" remote="TB" revision="master" />
+<project name="android_device_MLS_IQ1450" path="device/MLS/IQ1450" remote="TB" revision="master" />
+<project name="android_device_motorola_nicklaus" path="device/motorola/nicklaus" remote="TB" revision="master" />
+<project name="android_device_motorola_osprey" path="device/motorola/osprey" remote="TB" revision="android-7.1.2" />
+<project name="android_device_motorola_owens" path="device/motorola/owens" remote="TB" revision="master" />
+<project name="android_device_nokia_frt" path="device/nokia/frt" remote="TB" revision="master" />
+<project name="android_device_nokia_normandy" path="device/nokia/normandy" remote="TB" revision="master" />
+<project name="android_device_OUKITEL_K10" path="device/OUKITEL/K10" remote="TB" revision="master" />
+<project name="android_device_PHICOMM_ARK" path="device/PHICOMM/ARK" remote="TB" revision="master" />
+<project name="android_device_samsung_delos3geur" path="device/samsung/delos3geur" remote="TB" revision="master" />
+<project name="android_device_samsung_ms013g" path="device/samsung/ms013g" remote="TB" revision="master" />
+<project name="android_device_samsung_on7elte" path="device/samsung/on7elte" remote="TB" revision="master" />
+<project name="android_device_samsung_on7xelte" path="device/samsung/on7xelte" remote="TB" revision="master" />
+<project name="android_device_samsung_t03g" path="device/samsung/t03g" remote="TB" revision="master" />
+<project name="android_device_samsung_zenlteatt" path="device/samsung/zenlteatt" remote="TB" revision="master" />
+<project name="android_device_Smartron_rimo02a" path="device/Smartron/rimo02a" remote="TB" revision="master" />
+<project name="android_device_Sony_suzuran" path="device/Sony/suzuran" remote="TB" revision="android-5.1" />
+<project name="android_device_sony_wukong_dsds" path="device/sony/wukong_dsds" remote="TB" revision="master" />
+<project name="android_device_Symphony_rs631" path="device/Symphony/rs631" remote="TB" revision="master" />
+<project name="android_device_Symphony_ZVIII" path="device/Symphony/ZVIII" remote="TB" revision="master" />
+<project name="android_device_ulefone_armor" path="device/ulefone/armor" remote="TB" revision="master" />
+<project name="android_device_UMI_Rome" path="device/UMI/Rome" remote="TB" revision="master" />
+<project name="android_device_V_Photo_T320" path="device/V/Photo_T320" remote="TB" revision="master" />
+<project name="android_device_vega_ef51k" path="device/vega/ef51k" remote="TB" revision="master" />
+<project name="android_device_YU_garlic" path="device/YU/garlic" remote="TB" revision="master" />
+<project name="android_device_ZTE_jasmine" path="device/ZTE/jasmine" remote="TB" revision="master" />
+<project name="device_CUBOT_CUBOT-ECHO" path="device/CUBOT/CUBOT-ECHO" remote="TB" revision="master" />
+<project name="device_huawei_y360" path="device/huawei/y360" remote="TB" revision="mm6.0" />
+<project name="device_lenovo_tb2_x30l" path="device/lenovo/tb2_x30l" remote="TB" revision="mm6.0" />
+<project name="device_Micromax_Micromax_Q424" path="device/Micromax/Micromax_Q424" remote="TB" revision="master" />
+<project name="device_minix_p200_2G" path="device/minix/p200_2G" remote="TB" revision="mm6.0" />
+<project name="device_samsung_j1qltevzw" path="device/samsung/j1qltevzw" remote="TB" revision="mm6.0" />
+<project name="device_samsung_j7xelte" path="device/samsung/j7xelte" remote="TB" revision="mm6.0" />
+<project name="device_xolo_era4g" path="device/xolo/era4g" remote="TB" revision="mm6.0" />
+<project name="device_zte_blade_l3" path="device/zte/blade/l3" remote="TB" revision="mm6.0" />
+<project name="device_zte_draconis" path="device/zte/draconis" remote="TB" revision="master" />
+ 
+</manifest>
