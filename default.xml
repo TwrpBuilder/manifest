@@ -44,7 +44,7 @@
 <project name="android_device_motorola_owens" path="device/motorola/owens" remote="TB" revision="master" />
 <project name="android_device_nokia_frt" path="device/nokia/frt" remote="TB" revision="master" />
 <project name="android_device_nokia_normandy" path="device/nokia/normandy" remote="TB" revision="master" />
-<project name="android_device_on7prolte" path="device/samsung/on7prolte" remote="TB" revision="master" />
+<project name="android_device_on7prolte" path="device/samsung/on7prolte" remote="TB" revision="android-5.1" />
 <project name="android_device_OUKITEL_K10" path="device/OUKITEL/K10" remote="TB" revision="master" />
 <project name="android_device_PHICOMM_ARK" path="device/PHICOMM/ARK" remote="TB" revision="master" />
 <project name="android_device_samsung_delos3geur" path="device/samsung/delos3geur" remote="TB" revision="master" />
