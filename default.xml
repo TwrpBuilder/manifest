@@ -78,7 +78,7 @@
 	<project name="android_device_ulefone_armor" path="device/ulefone/armor" remote="TB" revision="master" />
 	<project name="android_device_UMI_Rome" path="device/UMI/Rome" remote="TB" revision="master" />
 	<project name="android_device_vega_ef51k" path="device/vega/ef51k" remote="TB" revision="master" />
-	<project name="android_device_V_Photo_T320" path="device/V/Photo_T320" remote="TB" revision="master" />
+	<project name="android_device_V_Photo_T320" path="device/V_Photo/T320" remote="TB" revision="master" />
 	<project name="android_device_xiaomi_ido" path="device/xiaomi/ido" remote="TB" revision="master" />
 	<project name="android_device_xolo_era4g" path="device/xolo/era4g" remote="TB" revision="mm6.0" />
 	<project name="android_device_YU_garlic" path="device/YU/garlic" remote="TB" revision="master" />
