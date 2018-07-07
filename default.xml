@@ -4,7 +4,7 @@
 	<remote name="TB"
 		fetch="https://github.com/TwrpBuilder/" />  
 
-	<project name="android_device_a8hplte" path="device/a8hplte" remote="TB" revision="android-6.0" />
+	<project name="android_device_samsung_a8hplte" path="device/samsung/a8hplte" remote="TB" revision="android-6.0" />
 	<project name="android_device_Accent_Speed_X2" path="device/Accent/Speed_X2" remote="TB" revision="master" />
 	<project name="android_device_ALLVIEW_gionee6735_65u_m0" path="device/ALLVIEW/gionee6735_65u_m0" remote="TB" revision="master" />
 	<project name="android_device_asus_P01V_2" path="device/asus/P01V_2" remote="TB" revision="master" />
