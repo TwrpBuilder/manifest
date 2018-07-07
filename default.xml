@@ -31,6 +31,7 @@
 	<project name="android_device_lenovo_lenovo_a806" path="device/lenovo/lenovo_a806" remote="TB" revision="master" />
 	<project name="android_device_Lenovo_marino_f" path="device/Lenovo/marino_f" remote="TB" revision="master" />
 	<project name="android_device_lenovo_tb2_x30l" path="device/lenovo/tb2_x30l" remote="TB" revision="mm6.0" />
+	<project name="android_device_lge_hammerhead" path="device/lge/hammerhead" remote="TB" revision="mm6.0" />
 	<project name="android_device_lge_pplus" path="device/lge/pplus" remote="TB" revision="master" />
 	<project name="android_device_lge_v521" path="device/lge/v521" remote="TB" revision="master" />
 	<project name="android_device_lge_w7" path="device/lge/w7" remote="TB" revision="master" />
